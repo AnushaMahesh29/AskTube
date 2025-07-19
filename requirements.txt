@@ -1,0 +1,9 @@
+streamlit
+langchain
+faiss-cpu
+youtube-transcript-api
+openai-whisper
+yt-dlp
+pydub
+ffmpeg-python
+langchain-community
